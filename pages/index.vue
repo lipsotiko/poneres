@@ -28,6 +28,14 @@
           />
           <div>443-301-9719</div>
         </a>
+        <a href="http://poneres-portal-landing.s3-website.us-east-1.amazonaws.com" target="_blank">
+          <img
+            src="~/assets/images/globe.svg"
+            width="20"
+            alt="phone icon"
+          />
+          <div>Property Pal</div>
+        </a>
       </div>
     </div>
     <div class="second-col-gridarea last-row-alignment three">
