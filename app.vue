@@ -36,6 +36,9 @@ useHead({
     {
       async: true,
       src: "https://www.googletagmanager.com/gtag/js?id=G-G80494X25T"
+    }, {
+      src: '/js/google.js',
+      type: 'text/javascript',
     }
   ]
 });
